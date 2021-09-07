@@ -7,11 +7,11 @@ Atualmente tenho conhecimentos em HTML, CSS ,JavaScript e estou estudando NODE J
 <div>
   
 <a href="https://github.com/brunolimasilva">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunolimasilva&show_icons=true&theme=dracula&line_height=27" alt=alexandreNascimento github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunolimasilva&show_icons=true&theme=winter&line_height=27""/>
 </a>  
   
 <a href="https://github.com/brunolimasilva">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolimasilva&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolimasilva&theme=winter&hide_langs_below=1" />
 </a>
 </div>
 
@@ -26,6 +26,8 @@ Atualmente tenho conhecimentos em HTML, CSS ,JavaScript e estou estudando NODE J
 
 
 💬 Contato: 
+
+
 <div>
    <a href = "mailto:blimasilva0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/bruno-gon%C3%A7alves-de-lima-silva-b00b46175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
