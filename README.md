@@ -1,6 +1,7 @@
-### Oii! Eu sou o Bruno 👋
+### Oii! Eu sou o Bruno Gonçalves
+Desenvolvedor Front End👋.
 
-Atualmente tenho conhecimentos em HTML, CSS ,JavaScript e estou estudando NODE JS e React JS.
+Atualmente tenho conhecimentos em: HTML, CSS , JavaScript, ReactJs, Bootstrap, MySQL.
 
 
 ## **GitHub Estatísticas**
